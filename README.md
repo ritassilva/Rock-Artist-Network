@@ -1,4 +1,4 @@
-# Rock-Band-Network
+# Rock-Artist-Network
 
 This repository includes a network representing the connections between the Wikipedia pages of some 
 of the most famous rock performers of all time. 
